@@ -10,3 +10,8 @@ function abc(){
 console.log(a);
 abc();
 
+function code(){
+    console.log("abc");
+}
+
+console.log(code);
